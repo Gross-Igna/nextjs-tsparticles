@@ -1,3 +1,16 @@
+# nextjs-tsparticles
+nextjs-tsparticles Next.js + Particles TsParticles pre-built project
+
+Trouble using particles on Next.js?
+Example on how to render particles in client-side with Next.js
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
